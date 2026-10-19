@@ -20,5 +20,11 @@
     "homey-api": "^3.6.2",
     "homey-lib": "^2.32.5",
     "homey-log": "^2.1.0"
+  },
+  "overrides": {
+    "image-size": "0.6.2",
+    "raven": {
+      "cookie": "^0.7.2"
+    }
   }
 }
